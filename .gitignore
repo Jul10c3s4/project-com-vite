@@ -1,0 +1,33 @@
+# comandos para testes unitários
+
+#intalação:
+#npm install --save-dev jest typescript ts-jest @types/jest
+#yarn add -D ts-node
+#deve-se fazer algumas configurações em um arquivo chamado jest.config.ts 
+
+#configurações para execução do cypress
+#adicionar no package.json o script: "prod": "npm run build && npm run preview"
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

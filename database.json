@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Julio Cesar",
+      "birth_date": "2000-01-01",
+      "cpf": "343435453434",
+      "email": "email@dominio.com"
+    },
+    {
+      "name": "Julio Cesar Dos Santos Oliveira",
+      "birth_date": "2023-04-03",
+      "cpf": "3545435435",
+      "email": "jcso2@aluno.ifal.edu.br",
+      "id": 2
+    },
+    {
+      "name": "ana",
+      "birth_date": "undefined",
+      "cpf": "3545435435",
+      "email": "jcso2@aluno.ifal.edu.br",
+      "id": 3
+    }
+  ]
+}
